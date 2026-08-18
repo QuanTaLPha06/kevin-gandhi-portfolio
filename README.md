@@ -2,9 +2,8 @@
 
 <img src="frontend/public/assets/nav-link-previews/landing.png" alt="Ansh Gajera Portfolio" width="100%" />
 
-# 🚀 Ansh Gajera — Personal Portfolio
+# 🚀 Kevin Gandhi — Personal Portfolio
 
-[![Live Site](https://img.shields.io/badge/Live%20Site-anshgajera.dev-blue?style=for-the-badge&logo=vercel)](https://anshgajera.dev)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black?style=for-the-badge&logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-7-green?style=for-the-badge&logo=mongodb)](https://www.mongodb.com/)
@@ -64,7 +63,7 @@ A full-stack personal portfolio website featuring smooth animations, 3D interact
 ## 🗂️ Project Structure
 
 ```
-Ansh_Portfolio/
+kevin-gandhi-portfolio/
 ├── frontend/          # Next.js 14 frontend (port 3000)
 │   ├── src/
 │   │   ├── app/       # Next.js App Router pages
@@ -121,8 +120,8 @@ Ansh_Portfolio/
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/AnshGajera/Ansh_Portfolio.git
-cd Ansh_Portfolio
+git clone https://github.com/QuanTaLPha06/kevin-gandhi-portfolio.git
+cd kevin-gandhi-portfolio
 ```
 
 ### 2. Set up the Backend (Port 4000)
@@ -196,8 +195,8 @@ Both the frontend and backend are deployed on **Vercel**.
 
 Feel free to reach out for collaborations, feedback, or just to say hi!
 
-- 🌐 **Website:** [anshgajera.dev](https://anshgajera.dev)
-- 💼 **GitHub:** [@AnshGajera](https://github.com/AnshGajera)
+- 💼 **GitHub:** [@QuanTaLPha06](https://github.com/QuanTaLPha06)
+- 📧 **Email:** [gandhikevin06@gmail.com](mailto:gandhikevin06@gmail.com)
 
 ---
 

@@ -43,27 +43,27 @@ import { TbTerminal2 } from "react-icons/tb";
 const CONTACT_LINKS = [
   {
     name: "Email",
-    content: "anshgajera@gmail.com", // TODO: Update with your real email
-    href: "mailto:anshgajera@gmail.com", // TODO: Update with your real email
+    content: "gandhikevin06@gmail.com",
+    href: "mailto:gandhikevin06@gmail.com",
     icon: <FaEnvelope height={"50px"} />,
   },
   {
-    name: "Phone",
-    content: "1234567890", // TODO: Update with your real phone
-    href: "tel:1234567890", // TODO: Update with your real phone
-    icon: <FaPhone height={"50px"} />,
-  },
-  {
     name: "LinkedIn",
-    href: "https://www.linkedin.com/in/ansh-gajera/", // TODO: Update with your real LinkedIn
-    content: "/ansh-gajera",
+    href: "https://www.linkedin.com/in/kevin-gandhi-941b90261/",
+    content: "kevin-gandhi",
     icon: <FaLinkedin height={"50px"} />,
   },
   {
     name: "GitHub",
-    href: "https://github.com/AnshGajera", // TODO: Update with your real GitHub
-    content: "/AnshGajera",
+    href: "https://github.com/QuanTaLPha06",
+    content: "/QuanTaLPha06",
     icon: <FaGithub height={"50px"} />,
+  },
+  {
+    name: "Instagram",
+    href: "https://www.instagram.com/kevin_gandhi06/",
+    content: "@kevin_gandhi06",
+    icon: <SiInstagram height={"50px"} />,
   },
 ];
 
@@ -251,7 +251,7 @@ function Page() {
                 />
               </div>
               <div className="flex flex-col gap-3 lg:items-center ml-10 md:ml-20 lg:ml-0">
-                <p className="text-center text-xl">Ansh Gajera</p>
+                <p className="text-center text-xl">Kevin Gandhi</p>
                 <div className="text-xs bg-zinc-700 w-fit px-3 py-1 rounded-full">
                   Web Developer
                 </div>
@@ -287,10 +287,7 @@ function Page() {
           >
             <h1 className="text-3xl mb-10 lg:md-20">About me</h1>
             <p className="mb-10 text-roboto">
-              Hey there! I&apos;m Ansh, a Computer Science Engineer with experience in Development, DevOps and
-              Database management with hands-on experience in deploying & automating workflows, and
-              collaborating with clients. Strong analytical skills, effective communication,
-              and a team-oriented approach to driving process improvements and delivering results.
+              Hey there! I&apos;m Kevin, a Software & Full Stack Developer with experience in modern web development, backend engineering, and cloud deployment workflows. Strong analytical skills, effective communication, and a team-oriented approach to driving process improvements and delivering high-quality web applications.
             </p>
             <p className="mb-10">
               When I&apos;m not coding, you can find me [Your

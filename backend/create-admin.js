@@ -38,7 +38,7 @@ async function createAdmin() {
     }
 
     // Create admin user
-    const email = '401anshgajera@gmail.com';
+    const email = 'gandhikevin06@gmail.com';
     const password = 'ansh';
     const passwordHash = await bcrypt.hash(password, 12);
 

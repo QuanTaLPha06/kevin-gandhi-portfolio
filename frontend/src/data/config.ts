@@ -29,8 +29,8 @@ const config = {
   },
   social: {
     twitter: "https://x.com/",
-    linkedin: "https://www.linkedin.com/in/",
-    instagram: "https://www.instagram.com/",
+    linkedin: "https://www.linkedin.com/in/kevin-gandhi-941b90261/",
+    instagram: "https://www.instagram.com/kevin_gandhi06/",
     facebook: "https://www.facebook.com/",
     github: "https://github.com/QuanTaLPha06",
   },

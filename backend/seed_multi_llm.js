@@ -25,7 +25,7 @@ const projectData = {
         "backend",
         "ai-architecture"
     ],
-    "githubUrl": "https://github.com/AnshGajera/multi-llm-council",
+    "githubUrl": "https://github.com/QuanTaLPha06/multi-llm-council",
     "images": [
         {
             "url": "https://res.cloudinary.com/dedm8zbh4/image/upload/v1769581231/portfolio/vpobbmeorzwsu8g5tklh.png",

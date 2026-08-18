@@ -13,7 +13,7 @@ const AboutSection = () => {
                         <div className="relative w-48 h-48 md:w-64 md:h-64 rounded-full overflow-hidden border-4 border-gray-200 dark:border-gray-800 shadow-xl">
                             <img
                                 src="/assets/me2.jpg"
-                                alt="Ansh Gajera"
+                                alt="Kevin Gandhi"
                                 className="w-full h-full object-cover"
                             />
                         </div>
@@ -30,7 +30,7 @@ const AboutSection = () => {
 
                     <BoxReveal width="100%" delay={0.2}>
                         <p className="text-lg text-gray-700 dark:text-gray-300 leading-relaxed mb-6 font-medium">
-                            I&apos;m Ansh, a B.Tech Artificial Intelligence &amp; Machine Learning student interested in building practical, real-world intelligent systems. I work across the AIML stack, from data understanding and machine learning to automation and system-level design.
+                            I&apos;m Kevin, a Software &amp; Full Stack Developer interested in building practical, real-world intelligent applications. I work across web technology stacks, from user interfaces and backend API integration to deployment and scalable system design.
                         </p>
                     </BoxReveal>
 
