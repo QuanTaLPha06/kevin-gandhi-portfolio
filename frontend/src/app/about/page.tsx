@@ -290,10 +290,8 @@ function Page() {
             <p className="mb-10 text-roboto">
               Hey there! I&apos;m Kevin, a Software & Full Stack Developer with experience in modern web development, backend engineering, and cloud deployment workflows. Strong analytical skills, effective communication, and a team-oriented approach to driving process improvements and delivering high-quality web applications.
             </p>
-            <p className="mb-10">
-              When I&apos;m not coding, you can find me [Your
-              Interests/Hobbies], exploring new technologies, or sipping coffee
-              while brainstorming my next project.
+            <p className="mb-10 font-roboto leading-relaxed">
+              When I&apos;m not coding, you can find me exploring new technologies, participating in open-source discussions, or learning about software design patterns and performance optimization.
             </p>
             <h1 className="text-3xl mb-10 lg:md-20">Stuff I use</h1>
             <div className="mb-5">

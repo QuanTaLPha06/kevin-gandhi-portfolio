@@ -1054,7 +1054,7 @@ const projects: Project[] = [
             Alchemist, with this responsive portfolio website. 🌐✨ Explore his inspiring journey,
             milestones, and life-changing services blending tech and spirituality. Built with
             modern tools like React and TypeScript, it’s a heartfelt tribute to a mentor who
-            transforms lives. 💻🕊️ Crafted with ❤️ by Ansh Gajera! 🚀
+            transforms lives. 💻🕊️ Crafted with ❤️ by Kevin Gandhi! 🚀
           </TypographyP>
           <ProjectsLinks live={this.live} repo={this.github} />
           <SlideShow

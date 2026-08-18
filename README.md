@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="frontend/public/assets/nav-link-previews/landing.png" alt="Ansh Gajera Portfolio" width="100%" />
+<img src="frontend/public/assets/nav-link-previews/landing.png" alt="Kevin Gandhi Portfolio" width="100%" />
 
 # 🚀 Kevin Gandhi — Personal Portfolio
 
