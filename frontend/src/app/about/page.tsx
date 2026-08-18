@@ -25,6 +25,7 @@ import {
 } from "react-icons/ri";
 import {
   SiExpress,
+  SiInstagram,
   SiJavascript,
   SiKubuntu,
   SiPm2,
